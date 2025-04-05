@@ -23,7 +23,7 @@ permalink: /article/7wlauaqn/
 |EN|JP|CN|
 |:--------|:--------|---------|
 |Her home was nestled on the side of a mountain.|彼女の家は山の<ruby>中腹<rt>ちゅうふく</rt></ruby>にあった。|她的家在山中間。|
-|Around it was nothing but inhospitable wilderness.|まわりは何もない荒れ地。||
+|Around it was nothing but inhospitable wilderness.|まわりは何もない荒れ地。|周圍地區是貧瘠的荒地。|
 |She had no neighbors or childhood friends to speak of. Things like traveling to school or playing outside were more trouble than they ought to be.|おとなりに住む<ruby>幼馴染<rt>おさななじ</rt></ruby>みなんて望むべくもなく、学校に通うのも、遊びに出かけるのも不便なコトこの上ない。||
 |Indeed, with its pure water and bright stars, it was a place rich with memories both frustrating and halcyon.|けれど水も星も綺麗な、ちょっとの不満と大きな安らぎのある、思い出の家だった。||
 

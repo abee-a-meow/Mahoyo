@@ -4,7 +4,7 @@ import { plumeTheme } from 'vuepress-theme-plume'
 
 module.exports = ({
   title:'mahoyo',
-  base:'/Mahoyo',
+  base:'/Mahoyo/',
   lang: 'zh-CN',
   theme: plumeTheme({
     // more...
